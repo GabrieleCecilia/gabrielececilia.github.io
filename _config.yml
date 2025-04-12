@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : #"Gabriele Cecilia"
+title                    : "Gabriele Cecilia"
 title_separator          : "-"
 name                     : &name "Gabriele Cecilia"
 description              : &description "PhD student at Augusta University"
@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Gabriele Cecilia"
-  pronouns         : "he/him"  
-  bio              : "PhD student"
+  pronouns         : #"he/him"  
+  bio              : #"PhD student"
   location         : "Augusta, GA, USA"
   employer         : "Augusta University"
   uri              : # URL

@@ -9,56 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* January 2025 - Now: PhD in Computer and Cyber Sciences, Augusta University, USA
+* April 2024: Master's Degree in Mathematics, University of Milan, Italy
+* September 2019: Bachelor's Degree in Mathematics, University of Milan, Italy 
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Gabriele Cecilia and Alberto Momigliano. *A Beluga Formalization of the Harmony Lemma in the π-Calculus*. Proceedings Workshop on LFMTP 2024, Tallinn, Estonia, 8th July 2024, Electronic Proceedings in Theoretical Computer Science 404, pp. 1–17. [DOI](https://doi.org/10.4204/EPTCS.404.1)
