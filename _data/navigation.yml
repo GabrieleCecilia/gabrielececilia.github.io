@@ -26,7 +26,7 @@ main:
   - title: "About Me"
     url: /about/
 
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /cv/
     
   # - title: "CV"
