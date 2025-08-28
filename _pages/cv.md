@@ -18,11 +18,12 @@ Education
 
 Publications
 ======
-* G.C. *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*. To appear at ICE 2025. [(PDF)](https://gabrielececilia.github.io/papers/ice25-paper.pdf) [(Artifact)](https://doi.org/10.5281/zenodo.15660906)
+* G.C. *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*. ICE 25, Lille, France, 20th June 2025, Electronic Proceedings in Theoretical Computer Science 425, pp. 55-72. [(DOI)](https://doi.org/10.4204/EPTCS.425.5) [(Artifact)](https://doi.org/10.5281/zenodo.15660906)
 * G.C. and Alberto Momigliano. *A Beluga Formalization of the Harmony Lemma in the π-Calculus*. Proceedings Workshop on LFMTP 2024, Tallinn, Estonia, 8th July 2024, Electronic Proceedings in Theoretical Computer Science 404, pp. 1–17. [(DOI)](https://doi.org/10.4204/EPTCS.404.1) [(Artifact)](https://github.com/GabrieleCecilia/concurrent-benchmark-solution)
 
 Talks and Presentations
 ======
+* *Formal Methods for Reversible Concurrent Calculi: an Introduction*. Research Colloquium presentation, Augusta University, 8 August 2025. [(Slides)](https://gabrielececilia.github.io/talks/rcoll25-slides.pdf)
 * *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*. ICE 25, Lille, 20 June 2025. [(Slides)](https://gabrielececilia.github.io/talks/ice25-slides.pdf)
 * *Formal Methods for Reversible Concurrent Calculi*. Poster presentation at Young Researchers Event, DisCoTec 25, Lille, 16-19 June 2025. [(Poster)](https://gabrielececilia.github.io/talks/yre25-poster.pdf)
 * *A Beluga Formalization of the Harmony Lemma in the π-Calculus*. LFMTP 2024, Tallinn, 8 July 2024. [(Slides)](https://gabrielececilia.github.io/talks/lfmtp24-slides.pdf)
@@ -31,5 +32,5 @@ Talks and Presentations
 Professional Services
 ======
 * PC member of the Artifact Evaluation Committee at ICFP 25.
-* Reviewer for CORSE 25.
+* External reviewer for CORSE 25.
 * Student volunteer at ICFP 24 and FM 24.
