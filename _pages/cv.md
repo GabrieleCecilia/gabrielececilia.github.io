@@ -31,6 +31,10 @@ Talks and Presentations
 
 Professional Services
 ======
-* PC member of the Artifact Evaluation Committee at [ICFP 2025](https://icfp25.sigplan.org/).
+* PC member of the Artifact Evaluation Committee at [ICFP 2025](https://icfp25.sigplan.org/) and [POPL 2026](https://popl26.sigplan.org/).
 * External reviewer for [CORSE](https://www.discotec.org/2025/satellite/corse).
 * Student volunteer at [ICFP 2024](https://icfp24.sigplan.org/) and [FM 2024](https://www.fm24.polimi.it/).
+
+Awards and Honors
+======
+* Programming Languages Mentoring Workshop ([PLMW](https://conf.researchr.org/home/icfp-splash-2025/PLMW-ICFP-SPLASH-2025)) at [ICFP-SPLASH 2025](https://conf.researchr.org/home/icfp-splash-2025) Travel Award, October 2025.
