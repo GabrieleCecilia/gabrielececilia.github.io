@@ -35,6 +35,6 @@ Professional Services
 * External reviewer for [CORSE](https://www.discotec.org/2025/satellite/corse).
 * Student volunteer at [ICFP 2024](https://icfp24.sigplan.org/) and [FM 2024](https://www.fm24.polimi.it/).
 
-Awards and Honors
+Grants
 ======
-* Programming Languages Mentoring Workshop ([PLMW](https://conf.researchr.org/home/icfp-splash-2025/PLMW-ICFP-SPLASH-2025)) at [ICFP-SPLASH 2025](https://conf.researchr.org/home/icfp-splash-2025) Travel Award, October 2025.
+* Programming Languages Mentoring Workshop ([PLMW](https://conf.researchr.org/home/icfp-splash-2025/PLMW-ICFP-SPLASH-2025)) at [ICFP-SPLASH 2025](https://conf.researchr.org/home/icfp-splash-2025) Travel Grant, October 2025.
