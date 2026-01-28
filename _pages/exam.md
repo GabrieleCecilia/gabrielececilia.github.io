@@ -1,7 +1,7 @@
 ---
 title: 'Comprehensive Exam'
 date: 2026-01-27
-permalink: /posts/exam/
+permalink: /pages/exam/
 tags:
   - comprehensive exam
 ---

@@ -16,4 +16,4 @@ I am currently working on the [Concurrency in Reversible Computations](https://g
 
 PhD Progress
 --------
-* [Comprehensive Exam](https://gabrielececilia.github.io/posts/exam/)
+* [Comprehensive Exam](https://gabrielececilia.github.io/pages/exam/)
