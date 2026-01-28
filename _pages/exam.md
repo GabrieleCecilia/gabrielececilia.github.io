@@ -1,9 +1,6 @@
 ---
 title: 'Comprehensive Exam'
-date: 2026-01-27
 permalink: /pages/exam/
-tags:
-  - comprehensive exam
 ---
 
 List of papers
