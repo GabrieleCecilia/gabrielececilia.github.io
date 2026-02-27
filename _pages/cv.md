@@ -23,6 +23,7 @@ Publications
 
 Talks and Presentations
 ------
+* *Formalizing the Metatheory of Programming Languages*. Research Colloquium presentation, Augusta University, 26 February 2026. [(Slides)](https://gabrielececilia.github.io/talks/rcoll26-slides.pdf)
 * *Formal Methods for Reversible Concurrent Calculi: an Introduction*. Research Colloquium presentation, Augusta University, 8 August 2025. [(Slides)](https://gabrielececilia.github.io/talks/rcoll25-slides.pdf)
 * *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*. [ICE 2025](https://www.discotec.org/2025/satellite/ice), Lille, 20 June 2025. [(Slides)](https://gabrielececilia.github.io/talks/ice25-slides.pdf)
 * *Formal Methods for Reversible Concurrent Calculi*. Poster presentation at Young Researchers Event, [DisCoTec 2025](https://www.discotec.org/2025/), Lille, 16-19 June 2025. [(Poster)](https://gabrielececilia.github.io/talks/yre25-poster.pdf)
