@@ -3,6 +3,19 @@ title: 'Comprehensive Exam'
 permalink: /pages/exam/
 ---
 
+Exam date and location
+------
+May 11, 2026 10:30am - 12:30pm at UH 227, Summerville Campus
+
+Advisory Committee members
+------
+- Dr. Clément Aubert, Major Advisor
+- Dr. Yuyan Bao
+- Dr. Harley Eades
+- Dr. Peter Robinson
+- Dr. Davide Sangiorgi
+
+
 List of papers
 ------
 - Clément Aubert, Iain Phillips & Irek Ulidowski (2026): *Bisimulations and Reversibility*. In: Components Operationally: Reversibility and System Engineering, pp. 46–67, Springer Nature Switzerland, Cham. [https://doi.org/10.1007/978-3-031-99717-4_3](https://doi.org/10.1007/978-3-031-99717-4_3)

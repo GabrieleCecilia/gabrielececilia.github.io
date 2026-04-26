@@ -26,14 +26,14 @@ Talks and Presentations
 * *Formalizing the Metatheory of Programming Languages*. Research Colloquium presentation, Augusta University, 26 February 2026. [(Slides)](https://gabrielececilia.github.io/talks/rcoll26-slides.pdf)
 * *Formal Methods for Reversible Concurrent Calculi: an Introduction*. Research Colloquium presentation, Augusta University, 8 August 2025. [(Slides)](https://gabrielececilia.github.io/talks/rcoll25-slides.pdf)
 * *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*. [ICE 2025](https://www.discotec.org/2025/satellite/ice), Lille, 20 June 2025. [(Slides)](https://gabrielececilia.github.io/talks/ice25-slides.pdf)
-* *Formal Methods for Reversible Concurrent Calculi*. Poster presentation at Young Researchers Event, [DisCoTec 2025](https://www.discotec.org/2025/), Lille, 16-19 June 2025. [(Poster)](https://gabrielececilia.github.io/talks/yre25-poster.pdf)
+* *Formal Methods for Reversible Concurrent Calculi*. Poster presentation at Young Researchers Event, [DisCoTec 2025](https://www.discotec.org/2025/), Lille, 16-19 June 2025 [(Poster)](https://gabrielececilia.github.io/talks/yre25-poster.pdf) and at Graduate Research Day, Augusta University, 27 March 2026. [(Poster)](https://gabrielececilia.github.io/talks/grd26-poster.pdf)
 * *A Beluga Formalization of the Harmony Lemma in the π-Calculus*. [LFMTP 2024](https://lfmtp.github.io/lfmtp-page/workshops/2024/), Tallinn, 8 July 2024. [(Slides)](https://gabrielececilia.github.io/talks/lfmtp24-slides.pdf)
 * *An Introduction to Process Calculi*. University of Milan, 13 December 2023. [(Slides)](https://gabrielececilia.github.io/talks/pcalc-slides.pdf)
 
 Professional Services
 ------
-* PC member of the Artifact Evaluation Committee at [ICFP 2025](https://icfp25.sigplan.org/) and [POPL 2026](https://popl26.sigplan.org/).
-* External reviewer for [CORSE](https://www.discotec.org/2025/satellite/corse).
+* PC member of the Artifact Evaluation Committee at [ICFP 2025](https://icfp25.sigplan.org/), [POPL 2026](https://popl26.sigplan.org/) and [PLDI 2026](https://pldi26.sigplan.org/).
+* External reviewer for [CORSE](https://www.discotec.org/2025/satellite/corse) and [RC 2026](https://reversible-computation.github.io/).
 * Student volunteer at [ICFP 2024](https://icfp24.sigplan.org/) and [FM 2024](https://www.fm24.polimi.it/).
 
 Grants
