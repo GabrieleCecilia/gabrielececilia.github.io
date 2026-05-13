@@ -15,6 +15,10 @@ Advisory Committee members
 - Dr. Peter Robinson
 - Dr. Davide Sangiorgi
 
+Documents
+------
+- Comprehensive Exam written component: ["Formal Methods for Reversible Concurrent Calculi"](https://gabrielececilia.github.io/files/comprehensive-exam.pdf)
+- [Presentation slides](https://gabrielececilia.github.io/talks/comprehensive-exam-slides.pdf)
 
 List of papers
 ------
